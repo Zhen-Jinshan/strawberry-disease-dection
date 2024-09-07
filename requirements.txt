@@ -209,4 +209,5 @@ xz
 yarl          
 zipp           
 zlib      
-zstd              
+zstd    
+streamlit
